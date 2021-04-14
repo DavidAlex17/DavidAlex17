@@ -1,5 +1,5 @@
 Hi, I’m @DavidAlex17, 21 years old and a college student. I’m interested in front-end web development after college 
-so most of my free time will consist of sel-learning. I’m currently learning advanced css, without frameworks for 
+so most of my free time will consist of self-learning. I’m currently learning advanced css, without frameworks for 
 now. To add, I’m looking to collaborate on open projects if anyone is interrested. im avaiable to be reached at 
 discord - David Alex#5847.
 
