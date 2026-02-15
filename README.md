@@ -3,12 +3,12 @@
 Computer Science student. I build practical projects while strengthening fundamentals in web development and machine learning.
 
 ### Current focus
-- Front-end: modern HTML/CSS/JS (accessibility, responsive layout, clean UI)
-- ML systems: federated learning robustness experiments (anomaly detection + exclusion, robust aggregators)
+- Front-end: modern HTML/CSS/JS
+- ML systems: federated learning robustness experiments
 
 ### Featured work
 - **Federated Learning Robustness (PID-style anomaly detection + exclusion)**  
-  Controlled experiments across IID vs non-IID, % malicious clients, and attack intensity. Benchmarked against FedAvg and robust aggregators (e.g., Multi-Krum / TrimmedMean / Bulyan / RFA). Logged robustness vs cost (accuracy/loss, detection metrics, runtime per round).
+  Controlled experiments across IID vs non-IID, % malicious clients, and attack intensity. Benchmarked against FedAvg and robust aggregators. Logged robustness vs cost.
 - **Web practice + mini-projects**  
   Small focused builds to improve layout, UI structure, and JavaScript fundamentals.
 
@@ -17,7 +17,7 @@ Computer Science student. I build practical projects while strengthening fundame
 
 ### What I’m open to
 - Collaboration on beginner-friendly front-end projects
-- Research-style coding help (reproducible experiments, clean logging/plots)
+- Research-style coding help
 
 ### Contact
 - Discord: **davida5847**
