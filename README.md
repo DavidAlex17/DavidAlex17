@@ -13,7 +13,7 @@ Computer Science student. I build practical projects while strengthening fundame
   Small focused builds to improve layout, UI structure, and JavaScript fundamentals.
 
 ### Tech
-`Python` `PyTorch` `Flower (FL)` `Git/GitHub` `HTML` `CSS` `JavaScript` `[add: SQL / Rails / etc if you want]`
+`Python` `PyTorch` `Flower (FL)` `Git/GitHub` `HTML` `CSS` `JavaScript`
 
 ### What I’m open to
 - Collaboration on beginner-friendly front-end projects
